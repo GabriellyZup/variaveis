@@ -15,5 +15,15 @@ public class Main {
             System.out.println(array[index]);
             index++;
         }
+
+    //exercício 3: Laço do-while
+        index = 0;
+        do {
+            System.out.println(array[index]);
+            index++;
+
+        } while (index < array.length);
+
     }
 }
+//finish
